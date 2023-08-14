@@ -4,34 +4,36 @@ description: All available permissions can be found here.
 
 # Permissions
 
-* `admin` =&gt; admin permission
-* `manageserver` =&gt; manage guild permission
-* `kick` =&gt; kick permission
-* `addreactions` =&gt; addReactions permission
-* `ban` =&gt; ban permission
-* `manageroles` =&gt; manageRoles permission
-* `managechannels` =&gt; manageChannels permission
-* `managewebhooks` =&gt; manageWebhooks permission
-* `managemessages` =&gt; manageMessages permission
-* `viewauditlog` =&gt; viewAuditlog permission
-* `managenicknames` =&gt; manageNicknames permission
-* `sendmessages` =&gt; sendMessages permission
-* `readmessages` =&gt; readMessages permission
-* `movemembers` =&gt; moveMembers permission
-* `manageemojis` =&gt; manageEmojis permission
-* `viewguildinsights` =&gt; viewGuildInsights permission
-* `mentioneveryone` =&gt;
-* `embedlinks` =&gt; embedLinks permission
-* `viewchannel` =&gt; viewChannel permission
-* `createinvite` =&gt; createInvite permission
-* `mutemembers` =&gt; muteMembers permission
-* `speak` =&gt; speak permission
-* `deafenmembers` =&gt; defeanMembers permission
-* `attachfiles` =&gt; attachFiles permission
-* `connect` =&gt; connect permission
-* `stream` =&gt; stream permission
-* `priorityspeaker` =&gt; prioritySpeaker permission
-* `changenickname` =&gt; changeNickname permission
-* `externalemojis` =&gt; externalEmojis permission
-* `sendtts` =&gt; sendTTS permission
-* `moderatemembers` =&gt; moderateMembers permission
+* `admin` => admin permission
+* `manageserver` => manage guild permission
+* `kick` => kick permission
+* `addreactions` => addReactions permission
+* `ban` => ban permission
+* `manageroles` => manageRoles permission
+* `managechannels` => manageChannels permission
+* `managewebhooks` => manageWebhooks permission
+* `managemessages` => manageMessages permission
+* `viewauditlog` => viewAuditlog permission
+* `managenicknames` => manageNicknames permission
+* `sendmessages` => sendMessages permission
+* `readmessages` => readMessages permission
+* `movemembers` => moveMembers permission
+* `manageemojis` => manageEmojis permission
+* `viewguildinsights` => viewGuildInsights permission
+* `mentioneveryone` =>
+* `embedlinks` => embedLinks permission
+* `viewchannel` => viewChannel permission
+* `createinvite` => createInvite permission
+* `mutemembers` => muteMembers permission
+* `speak` => speak permission
+* `deafenmembers` => defeanMembers permission
+* `attachfiles` => attachFiles permission
+* `connect` => connect permission
+* `stream` => stream permission
+* `priorityspeaker` => prioritySpeaker permission
+* `changenickname` => changeNickname permission
+* `externalemojis` => externalEmojis permission
+* `sendtts` => sendTTS permission
+* `moderatemembers` => moderateMembers permission
+
+> Some may be deprecated due to API changes!

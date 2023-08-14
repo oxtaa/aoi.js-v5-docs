@@ -29,7 +29,7 @@ Hyperlinks only work inside $description and embed fields.
 {% tabs %}
 {% tab title="index.js" %}
 ```javascript
-bot.command({
+client.command({
 name: "hyperlink", 
 code: `
 $description[[Package](https://www.npmjs.com/package/aoi.js 'click')]` 

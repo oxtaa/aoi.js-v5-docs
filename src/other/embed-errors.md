@@ -7,6 +7,8 @@ description: >-
 
 # Embed Errors
 
+The following functions should go inside another function called `{newEmbed:}` (ex: `{newEmbed:{title:Hello, world!}}`)
+
 * `{title:text}` => embed's
 * `{url:link}` => embed's title hyperlink url
 * `{footer:text:url}` => embed's footer text and optional embed's icon image url, embed needs title
@@ -26,7 +28,7 @@ description: >-
 
 #### Where to use
 
-You can use the embed error functions inside all functions they have message or error message field in it. Among users the following functions:
+You can use the embed error functions inside all the following functions:
 
 * [$sendMessage](../functions/usdsendmessage.md)
 * [$channelSendMessage](../functions/usdchannelsendmessage.md)
@@ -41,7 +43,7 @@ You can use the embed error functions inside all functions they have message or 
 * [$argsCheck](../functions/usdargscheck.md)
 * [$onlyForIDs](../functions/usdonlyforids.md) and other ID limiters
 * [$cooldown](../functions/usdcooldown.md) and other cooldown functions
-* [$blackListServerIDs ](broken-reference)and other blacklist functions
+* [$blackListServerIDs ](broken-reference/)and other blacklist functions
 
 {% hint style="info" %}
 All of the embed functions are optional. Only url field needs a title field too.
